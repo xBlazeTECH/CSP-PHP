@@ -1,2 +1,2 @@
-# CSP-PHP
-This is a template for the Computer Science Principles class at Farmington High School
+Heyo, this project was brought to you by Lansing Nye-Madden, of Farmington High School.
+No rights are reserved, just make sure that you pass this around, for the good of mankind!
